@@ -1,4 +1,4 @@
-<!-- Profile README — lives at github.com/saadsk-tech/saadsk-tech -->
+<!-- Profile README. Lives at github.com/saadsk-tech/saadsk-tech -->
 
 <div align="center">
 
@@ -23,13 +23,13 @@ e-commerce, and AI content pipelines for clients across the US, UK, Canada &amp;
 ### The short version
 
 I lead engineering for production WordPress at real scale. Most recently I owned every layer of
-**[ZippyPixels.com](https://zippypixels.com)** — a global digital marketplace of **14,000+ products
-with a worldwide customer base** — from Easy Digital Downloads architecture and payments to performance and SEO.
+**[ZippyPixels.com](https://zippypixels.com)**, a global digital marketplace of **14,000+ products
+with a worldwide customer base**, from Easy Digital Downloads architecture and payments through to performance and SEO.
 
 The catalogue was the bottleneck, so I built a **custom WordPress plugin around the OpenAI API** that
 writes unique, schema-aware, SEO-optimized product descriptions autonomously. It **cut manual content
 time by ~70%** with zero editor rewrites. A clean, installable reference implementation of that pipeline
-is pinned below 👇
+is pinned below
 
 ---
 
@@ -46,24 +46,24 @@ is pinned below 👇
 
 ### Open-source plugins &amp; tools
 
-> Real, readable code — not just claims. Each repo proves a different strength.
+> Real, readable code, not just claims. Each repo proves a different strength.
 
-- 🤖 **[AI Content Engine](https://github.com/saadsk-tech/wp-ai-content-engine)** — WordPress + OpenAI plugin that writes SEO product descriptions autonomously. A clean reference build of the pipeline behind a 14,000-product catalogue.
-- 🧩 **[Devify Sections](https://github.com/saadsk-tech/devify-elementor-sections)** — a kit of 12 custom Elementor section widgets with full content &amp; style controls on a shared base-class architecture.
-- 💬 **[Devify WhatsApp Chat](https://github.com/saadsk-tech/devify-whatsapp-chat)** — a configurable WhatsApp live-chat widget for any WordPress theme, with a developer filter API and Customizer integration.
-- 🌐 **[RTL Bilingual Starter](https://github.com/saadsk-tech/rtl-bilingual-starter)** — a dependency-free toolkit for English/Arabic sites from one codebase, built on CSS logical properties.
+- **[AI Content Engine](https://github.com/saadsk-tech/wp-ai-content-engine)**: a WordPress + OpenAI plugin that writes SEO product descriptions autonomously. A clean reference build of the pipeline behind a 14,000-product catalogue.
+- **[Devify Sections](https://github.com/saadsk-tech/devify-elementor-sections)**: a kit of 12 custom Elementor section widgets with full content &amp; style controls on a shared base-class architecture.
+- **[Devify WhatsApp Chat](https://github.com/saadsk-tech/devify-whatsapp-chat)**: a configurable WhatsApp live-chat widget for any WordPress theme, with a developer filter API and Customizer integration.
+- **[RTL Bilingual Starter](https://github.com/saadsk-tech/rtl-bilingual-starter)**: a dependency-free toolkit for English/Arabic sites from one codebase, built on CSS logical properties.
 
 ---
 
 ### Selected live work
 
-> Every link is a working business — built, shipped, and still earning for its owners.
+> Every link is a working business, built, shipped, and still earning for its owners.
 
-- 🛍️ **[ZippyPixels](https://zippypixels.com)** — 14,000-product marketplace on EDD Pro with an AI-generated catalogue
-- 🧰 **[Robbox Tools](https://shop.robboxtools.com)** — WooCommerce brand store, full checkout funnel
-- 🩺 **[Bayan Telehealth](https://bayantelehealth.com)** — privacy-first, HIPAA-aware telehealth platform
-- 🌐 **[ShareRing Network](https://sharering.network)** — marketing platform for a blockchain identity company
-- ⚓ **[McLean's Shipyard](https://www.mcleansshipyard.com)** — heritage industrial brand, corporate presence
+- **[ZippyPixels](https://zippypixels.com)**: 14,000-product marketplace on EDD Pro with an AI-generated catalogue
+- **[Robbox Tools](https://shop.robboxtools.com)**: WooCommerce brand store with a full checkout funnel
+- **[Bayan Telehealth](https://bayantelehealth.com)**: privacy-first, HIPAA-aware telehealth platform
+- **[ShareRing Network](https://sharering.network)**: marketing platform for a blockchain identity company
+- **[McLean's Shipyard](https://www.mcleansshipyard.com)**: heritage industrial brand, corporate presence
 
 A fuller case-study view lives at **[devify.digital](https://devify.digital)**.
 
@@ -87,7 +87,7 @@ A fuller case-study view lives at **[devify.digital](https://devify.digital)**.
 
 <div align="center">
 
-**Currently available for remote roles** · Lahore, PK — overlapping US · UK · EU hours · English · Urdu · Arabic
+**Currently available for remote roles** · Lahore, PK, overlapping US · UK · EU hours · English · Urdu · Arabic
 
 <sub>This profile, like everything I ship, is hand-written. No generators.</sub>
 
