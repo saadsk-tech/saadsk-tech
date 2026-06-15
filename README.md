@@ -23,8 +23,8 @@ e-commerce, and AI content pipelines for clients across the US, UK, Canada &amp;
 ### The short version
 
 I lead engineering for production WordPress at real scale. Most recently I owned every layer of
-**[ZippyPixels.com](https://zippypixels.com)** — a global digital marketplace with **14,000+ products
-serving 100+ countries** — from Easy Digital Downloads architecture and payments to performance and SEO.
+**[ZippyPixels.com](https://zippypixels.com)** — a global digital marketplace of **14,000+ products
+with a worldwide customer base** — from Easy Digital Downloads architecture and payments to performance and SEO.
 
 The catalogue was the bottleneck, so I built a **custom WordPress plugin around the OpenAI API** that
 writes unique, schema-aware, SEO-optimized product descriptions autonomously. It **cut manual content
@@ -48,11 +48,10 @@ is pinned below 👇
 
 > Real, readable code — not just claims. Each repo proves a different strength.
 
-- 🤖 **[AI Content Engine](https://github.com/saadsk-tech/wp-ai-content-engine)** — WordPress + OpenAI plugin that writes SEO product descriptions autonomously. A clean reference build of the pipeline that powered a 14,000-product catalogue.
-- 🧩 **[Devify Sections](https://github.com/saadsk-tech/devify-sections)** — a kit of 12 custom Elementor section widgets with full content &amp; style controls on a shared base-class architecture.
+- 🤖 **[AI Content Engine](https://github.com/saadsk-tech/wp-ai-content-engine)** — WordPress + OpenAI plugin that writes SEO product descriptions autonomously. A clean reference build of the pipeline behind a 14,000-product catalogue.
+- 🧩 **[Devify Sections](https://github.com/saadsk-tech/devify-elementor-sections)** — a kit of 12 custom Elementor section widgets with full content &amp; style controls on a shared base-class architecture.
 - 💬 **[Devify WhatsApp Chat](https://github.com/saadsk-tech/devify-whatsapp-chat)** — a configurable WhatsApp live-chat widget for any WordPress theme, with a developer filter API and Customizer integration.
 - 🌐 **[RTL Bilingual Starter](https://github.com/saadsk-tech/rtl-bilingual-starter)** — a dependency-free toolkit for English/Arabic sites from one codebase, built on CSS logical properties.
-- 🧱 **[Elementor Widget Kit](https://github.com/saadsk-tech/elementor-widget-kit)** — a focused showcase of custom Elementor widgets with a reusable base class.
 
 ---
 
