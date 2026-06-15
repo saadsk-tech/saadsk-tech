@@ -89,6 +89,4 @@ A fuller case-study view lives at **[devify.digital](https://devify.digital)**.
 
 **Currently available for remote roles** · Lahore, PK, overlapping US · UK · EU hours · English · Urdu · Arabic
 
-<sub>This profile, like everything I ship, is hand-written. No generators.</sub>
-
 </div>
